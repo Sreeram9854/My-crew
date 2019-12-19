@@ -10,3 +10,4 @@
 8. Finally, a DynamoDB table is created with name "tflocktable" along with read and write capacities
 9. The ELB has been tested and it shows both Server-1 and Server-2 in round-robin fashion
 10. Also, the Dynamo table with name has been verified from the console.
+11. In order to run, you need to input access-key, secret-key, key-name
