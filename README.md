@@ -9,5 +9,5 @@
 7. An ELB with name "aws_elb" has been created with the listener and health_check properties set-up with target to EC2 servers
 8. Finally, a DynamoDB table is created with name "tflocktable" along with read and write capacities
 9. The ELB has been tested and it shows both Server-1 and Server-2 in round-robin fashion
-10. Also, the Dynamo table with name has been verified from the console.
+10. Also, the Dynamo table with name "tflocktable" has been verified from the console.
 11. In order to run, you need to input access-key, secret-key, key-name
